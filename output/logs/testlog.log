@@ -697,3 +697,35 @@
 2021-10-27 21:58:34,414 - logger_File -INFO - user clicked on Login Button
 2021-10-27 21:58:34,471 - logger_File -INFO - user is logged in to MyAccount Dashboard
 2021-10-27 21:58:35,446 - logger_File -INFO - Scenario Retail website Login test with multiple accounts PASSED
+2021-11-25 15:24:29,497 - logger_File -INFO - Scenario Retail website Login test Started
+2021-11-25 15:24:53,509 - logger_File -INFO - Actual Title is matching with expected title
+2021-11-25 15:24:53,919 - logger_File -INFO - user clicked on MyAccount
+2021-11-25 15:24:55,952 - logger_File -INFO - user clicked on Login Option
+2021-11-25 15:24:56,222 - logger_File -INFO - user Enter eagles@tekschool.usand password eagles
+2021-11-25 15:24:58,985 - logger_File -INFO - user clicked on Login Button
+2021-11-25 15:24:59,024 - logger_File -INFO - user is logged in to MyAccount Dashboard
+2021-11-25 15:24:59,588 - logger_File -INFO - Scenario Retail website Login test PASSED
+2021-11-25 15:24:59,612 - logger_File -INFO - Scenario Retail website Login test with multiple accounts Started
+2021-11-25 15:25:04,264 - logger_File -INFO - Actual Title is matching with expected title
+2021-11-25 15:25:04,463 - logger_File -INFO - user clicked on MyAccount
+2021-11-25 15:25:04,945 - logger_File -INFO - user clicked on Login Option
+2021-11-25 15:25:05,208 - logger_File -INFO - user Enter eagles@tekschool.usand password eagles
+2021-11-25 15:25:05,662 - logger_File -INFO - user clicked on Login Button
+2021-11-25 15:25:05,689 - logger_File -INFO - user is logged in to MyAccount Dashboard
+2021-11-25 15:25:06,219 - logger_File -INFO - Scenario Retail website Login test with multiple accounts PASSED
+2021-11-25 15:25:06,227 - logger_File -INFO - Scenario Retail website Login test with multiple accounts Started
+2021-11-25 15:25:08,947 - logger_File -INFO - Actual Title is matching with expected title
+2021-11-25 15:25:09,149 - logger_File -INFO - user clicked on MyAccount
+2021-11-25 15:25:09,642 - logger_File -INFO - user clicked on Login Option
+2021-11-25 15:25:09,893 - logger_File -INFO - user Enter hawks@tekschool.usand password hawks
+2021-11-25 15:25:10,741 - logger_File -INFO - user clicked on Login Button
+2021-11-25 15:25:10,768 - logger_File -INFO - user is logged in to MyAccount Dashboard
+2021-11-25 15:25:11,259 - logger_File -INFO - Scenario Retail website Login test with multiple accounts PASSED
+2021-11-25 15:25:11,265 - logger_File -INFO - Scenario Retail website Login test with multiple accounts Started
+2021-11-25 15:25:13,431 - logger_File -INFO - Actual Title is matching with expected title
+2021-11-25 15:25:13,624 - logger_File -INFO - user clicked on MyAccount
+2021-11-25 15:25:13,895 - logger_File -INFO - user clicked on Login Option
+2021-11-25 15:25:14,167 - logger_File -INFO - user Enter falcons@tekschool.usand password falcons
+2021-11-25 15:25:14,669 - logger_File -INFO - user clicked on Login Button
+2021-11-25 15:25:14,693 - logger_File -INFO - user is logged in to MyAccount Dashboard
+2021-11-25 15:25:15,191 - logger_File -INFO - Scenario Retail website Login test with multiple accounts PASSED
